@@ -16,6 +16,7 @@
 		2A2D3B1429194C18000DDD2D /* CaculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2D3B1329194C18000DDD2D /* CaculatorTests.swift */; };
 		2A2D3B1E29194C18000DDD2D /* CaculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2D3B1D29194C18000DDD2D /* CaculatorUITests.swift */; };
 		2A2D3B2029194C18000DDD2D /* CaculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2D3B1F29194C18000DDD2D /* CaculatorUITestsLaunchTests.swift */; };
+		2A2D3B2D29195312000DDD2D /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2D3B2C29195312000DDD2D /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2A2D3B1929194C18000DDD2D /* CaculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CaculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A2D3B1D29194C18000DDD2D /* CaculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaculatorUITests.swift; sourceTree = "<group>"; };
 		2A2D3B1F29194C18000DDD2D /* CaculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2A2D3B2C29195312000DDD2D /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				2A2D3AFE29194C17000DDD2D /* SceneDelegate.swift */,
 				2A2D3B0029194C17000DDD2D /* ViewController.swift */,
 				2A2D3B0229194C17000DDD2D /* Main.storyboard */,
+				2A2D3B2C29195312000DDD2D /* RoundButton.swift */,
 				2A2D3B0529194C18000DDD2D /* Assets.xcassets */,
 				2A2D3B0729194C18000DDD2D /* LaunchScreen.storyboard */,
 				2A2D3B0A29194C18000DDD2D /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A2D3B2D29195312000DDD2D /* RoundButton.swift in Sources */,
 				2A2D3B0129194C17000DDD2D /* ViewController.swift in Sources */,
 				2A2D3AFD29194C17000DDD2D /* AppDelegate.swift in Sources */,
 				2A2D3AFF29194C17000DDD2D /* SceneDelegate.swift in Sources */,
